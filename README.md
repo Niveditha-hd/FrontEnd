@@ -1,2 +1,2 @@
 # FrontEnd
-Repository for HTML, CSS, Javascript Code
+Repository for HTML, CSS, Javascript Code practise
